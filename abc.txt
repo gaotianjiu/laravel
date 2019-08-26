@@ -10,3 +10,4 @@ git config --global user.name "gaotianjiu"
 Git Gui:SSL_connect: SSL_ERROR_SYSCALL in connection to github.com:443
 取消http代理
 git config --global --unset http.proxy
+
