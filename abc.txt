@@ -1,1 +1,12 @@
-abc
+https：https://github.com/gaotianjiu/laravel.git
+SSH：git@github.com:gaotianjiu/laravel.git
+
+Git Gui:Please tell me who you are
+设置用户名和邮箱
+git config --global user.email "43667749@qq.com"
+git config --global user.name "gaotianjiu"
+
+
+Git Gui:SSL_connect: SSL_ERROR_SYSCALL in connection to github.com:443
+取消http代理
+git config --global --unset http.proxy
